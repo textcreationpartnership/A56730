@@ -1,0 +1,365 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a scandalous pamphlet entituled, A letter to a dissenter concerning His Majesties late declaration of indulgence, &amp;c.</title>
+            <author>Payne, Henry Neville, fl. 1672-1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56730</idno>
+            <idno type="STC">Wing P887</idno>
+            <idno type="STC">ESTC R19184</idno>
+            <idno type="EEBO-CITATION">13054349</idno>
+            <idno type="OCLC">ocm 13054349</idno>
+            <idno type="VID">96979</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56730)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96979)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 395:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a scandalous pamphlet entituled, A letter to a dissenter concerning His Majesties late declaration of indulgence, &amp;c.</title>
+                  <author>Payne, Henry Neville, fl. 1672-1710.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Henry Payne.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Halifax, George Savile, --  Marquis of, 1633-1695. --  Letter to a dissenter.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="answer">
+            <pb facs="tcp:96979:1"/>
+            <pb n="1" facs="tcp:96979:1"/>
+            <head>AN ANSWER To a Scandalous Pamphlet, ENTITULED A LETTER TO A
+DISSENTER CONCERNING His MAJESTIES LATE Declaration of Indulgence,
+&amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Being a <hi>Diſſenter,</hi> your Letter was delivered to Me,
+whether by miſtake, or no, I cannot tell, nor ſhall ex<g ref="char:EOLhyphen"/>amine; But this I am
+ſure of, That it concerns all ſorts of Men under that Denomination, to
+conſider, as well the End to which your Councils tend, as the Motives from
+whence they Spring.</p>
+            <p>It is no ways material to them whether <hi>Fear, Intereſt,
+Re<g ref="char:EOLhyphen"/>ſentment,</hi> or pure <hi>Politicks</hi> undertakes to be their Guide,
+but <pb n="2" facs="tcp:96979:2"/> to what they are driving, and they ought to be careful
+of their <hi>Conductor,</hi> when to miſs the right way to Repoſe, leads to
+no leſs than perpetual Ruine and Miſery. You confeſs you differ in
+Opinion from <hi>Diſsenters,</hi> and conſequently are within the Pale of
+<hi>Conformity;</hi> wherefore you muſt not wonder if your <hi>Sincerity,
+Friendſhip,</hi> and <hi>Charity</hi> be doubted: You are at preſent,
+diſar<g ref="char:EOLhyphen"/>med of your dangerous Weapons, the <hi>Penal</hi> and <hi>Sanguinary
+Laws,</hi> therefore your Fury is not now felt; But can you think the memory of
+Seven and Twenty years ſorrowful Sufferings will not laſt half a one, or
+that they who have had ſuch wo<g ref="char:EOLhyphen"/>ful experience of your Brotherly Love to the
+ſub-diviſion of <hi>Proteſtants,</hi> muſt not be jealous at leaſt of
+your Officious Friend<g ref="char:EOLhyphen"/>ſhip at preſent, and what ſort of <hi>Us</hi> your
+<hi>Arguments are neceſ<g ref="char:EOLhyphen"/>ſary to preſerve.</hi>
+            </p>
+            <p>It cannot be ſuch to whom your Party have conſtantly impu<g ref="char:EOLhyphen"/>ted
+the <hi>Excluſion,</hi> and <hi>Rebellion;</hi> for the condition of thoſe
+you confeſs calls <hi>for preſent Eaſe:</hi> And now their immediate Cure
+is preſcribed by the only Phyſician on Earth for that Diſtemper, you
+would perſwade them to refuſe to take it, for fear their E<g ref="char:EOLhyphen"/>nemies ſhould
+grow Sick with Envy at their Wonderful Recove<g ref="char:EOLhyphen"/>ry. But if they be Infatuated to
+that degree as to take your Council, let me beg this Favour for them in their
+future Miſe<g ref="char:EOLhyphen"/>ries, That they may be removed from the Collum of ill Men, to
+that of Mad; for they who poſſeſs ſuch Publick Spirits as to be
+delighted with Eternal Torments, and Miſeries for the
+<hi>Preſer<g ref="char:EOLhyphen"/>vation</hi> of their only Enemies, ought at leaſt to be relax'd
+from the Infamy of their Sufferings.</p>
+            <p>But I have heard ſtrong Proofs offered by
+<hi>Diſſenters,</hi> to lay both the <hi>Excluſion</hi> and
+<hi>Rebellion</hi> to the charge of ſome very Zealous <hi>Conformers;</hi>
+And did not your un-intelligible, as well as much repented Doctrine of
+<hi>Non-reſiſtance</hi> diſ-heard all un<g ref="char:EOLhyphen"/>ſuceſsful <hi>Rebels</hi>
+from being <hi>Church of England-Men,</hi> it would be hard to diſtinguiſh
+them from the moſt active <hi>Parrators</hi> you have.</p>
+            <p>But paſſing over all Reflections differing Parties are apt to
+make on one another, we will confider the Two parts of your <pb n="3" facs="tcp:96979:2"/>
+Advice, with this aſſurance, That I believe the new Friendſhip, has no
+<hi>Fondneſs</hi> in it, and is as you ſay, <hi>to be ſuſpected,</hi>
+and conſequently Examined; But whether in your Method, or no, remains a
+Queſtion.</p>
+            <p>We will take for granted, That the common Intereſt of the
+Eſtabliſh'd Church, and His Majeſties Royal Predeceſſors in the four
+laſt Reigns had ſo joyn'd them together, that it had been as well
+unnatural, as undutiful in the <hi>Roman Catholicks</hi> to have made Court to
+any other Party of the Nation, And it had (perhaps) been as Imprudent in His
+Majeſty not to proffer them the firſt Fruits of His Favour and Protection;
+that being no ways inconſiſtant with the Kindneſs He intended to thoſe
+of His own Communion, nor the <hi>Indulgence</hi> He always deſigned to His
+other Peaceable <hi>Diſſenting</hi> Subjects: But how ungrate<g ref="char:EOLhyphen"/>fully He has
+been dealt with by the Eſtabliſhed Church, for His Generous Condeſentions
+and Complements, I will not repeat, becauſe as you ſay, <hi>What is
+unneceſſary, muſt be tedious;</hi> And the truth of this Aſſertion is
+ſo plain, that could it admit of a Diſpute, your Letter would put an end to
+it, for it is in well Compoſed Sentences, and Periods, the Univerſal Voice
+of the Party who have much (againſt his will) forc'd the <hi>King</hi> to
+diſ<g ref="char:EOLhyphen"/>cern, that their magnify'd Loyalty was meerly their Intereſt, and that
+they were Diſciples of the Crown only for the Loaves. He muſt too at laſt
+perceive, that the ſeverity of the Laws made againſt the very Nature of the
+<hi>Reformation,</hi> to force a Conformity to a Fallible Authority, compell'd
+<hi>Proteſtant Diſ<g ref="char:EOLhyphen"/>ſenters</hi> to ſeek for Relief from Rebellion,
+having Examples of ſucceſs in that method to their Brethren in Foreign
+Countries, as well as their Fatal prevailing thereby at Home: But to the
+Ho<g ref="char:EOLhyphen"/>nour of them, let this truth be remembred, That their Natural Prince on His
+Promiſe of <hi>Liberty of Conſcience,</hi> was moſt dear to them all, and
+made them with Univerſal Joy, like true <hi>Eng<g ref="char:EOLhyphen"/>liſh-Men,</hi> bring Him
+back with Triumph to His Dominions, from whence their Swords, and Intereſt
+had driven Him: Nor can it be believ'd, they would ever have had Recourſe to
+their Swords again for the Remedy, if they had not found their old Diſeaſe,
+<hi>Oppreſſion</hi> return.</p>
+            <p>
+               <pb n="4" facs="tcp:96979:3"/> As to the <hi>Alliance betwixt Liberty, and
+Infallibility</hi> which you are pleaſed to Redicule, it ſeems to the
+<hi>Diſſenters</hi> no ſuch im<g ref="char:EOLhyphen"/>poſſible thing as you would perſwade
+them, when mutual In<g ref="char:EOLhyphen"/>tereſt is the Sement of the League: For tho' it ſhould
+be true, that a Church which pretends to <hi>Infallibility,</hi> cannot in its
+own Nature, conſent to the Propagation of Errour: Yet Experi<g ref="char:EOLhyphen"/>ence ſhews by
+<hi>Holland</hi> and many other places, that the Mem<g ref="char:EOLhyphen"/>bers of ſuch a Church,
+can be Good and Friendly Neighbours with thoſe they think in the wrong; But
+on the contrary ſide, a Church that had its only Beginning, Form, and
+Foundation in <hi>Severe Sanguinary</hi> and <hi>Penal Laws</hi> for
+Extirpation of the Religion they found in Poſſeſſion, and for
+preventing any other whatſoever but its own, and yet pretending to no
+<hi>In<g ref="char:EOLhyphen"/>fallibility,</hi> but its Power: It is hard, I ſay, to believe ſuch
+a Church can willingly part with its only Supporter, <hi>Force:</hi> And
+therefore there is a neceſſity, where there is a Warrantable Op<g ref="char:EOLhyphen"/>portunity
+for all Parties they would <hi>Oppreſs,</hi> to joyn together to put it out
+of their Power to do it.</p>
+            <p>
+               <hi>Proteſtant Diſſenters,</hi> are by their Lawful Prince
+put in Poſ<g ref="char:EOLhyphen"/>ſeſſion of <hi>Liberty,</hi> and are invited to make that
+<hi>Indulgence</hi> laſt<g ref="char:EOLhyphen"/>ing to them by Law, on condition all Men may ſhare
+in it: You would perſwade them, to caſt away this Opportunity, in hopes the
+time may come, you will be ſo good natur'd to <hi>remember the Courteſy,
+and not be ſo ſevere to them as you have been,</hi> Alledging, <hi>That the
+Church of</hi> England <hi>convinc'd of its Errour in being ſevere to them,
+the Parliament, when ever It meets, isſure to be Gentile. The next Heir Bread
+in the Countrey which they have ſo often Quoted for a Patern of</hi>
+Indulgence, <hi>a General Agreement of all thinking Men,</hi> &amp;c. Makes you
+ſay <hi>all things conſpire to give them Eaſe, and Satisfaction, if by
+too much haſte to anticipate their good Fortune, they do not deſtroy
+it:</hi> Pretty plauſible Sophiſtry, to make Men neglect the preſent
+Poſſeſſion of their Deſires, in hopes of a future Poſſibility of
+gaining them: This plainly ſhews you do not believe you have to do with
+<hi>Thinking Men,</hi> for ſuch well enough can ſee the difference between
+Poſſeſſion and Hopes, eſpecially ſupported with Untruths: For all
+men know <pb n="5" facs="tcp:96979:3"/> the <hi>next Heir</hi> was Bred in the Stricteſt
+Form of your Church and adheres to all the Ceremonies of it, in a Countrey
+where they are not only more Hated, but more Contemptible, and Ri<g ref="char:EOLhyphen"/>diculous than
+thoſe of the <hi>Maſs,</hi> to which by the multitudes of
+<hi>Papiſts</hi> they are well accuſtomed; And would you make the
+<hi>Diſſenters</hi> believe, That <hi>Princeſs</hi> would begin an
+<hi>Indulgence</hi> She has been Educated to think is Criminal; But if the
+<hi>Diſſen<g ref="char:EOLhyphen"/>ters</hi> once get Poſſeſſion of it under Her Royal
+Father, the <hi>ſtrong Argument of Numbers</hi> will certainly ſecure them
+againſt Her re<g ref="char:EOLhyphen"/>calling the Favour, as well as make it impoſſible for that
+Party, who are as you confeſs, <hi>but as One to Two Hundred,</hi> from
+Op<g ref="char:EOLhyphen"/>preſſing the common Intereſt of the <hi>Whole.</hi>
+            </p>
+            <p>I am not willing (you ſee) to carp at your ſquinting Term of
+the <hi>next Heir:</hi> But this I muſt aſſure you in general a more
+Diſloyal and Dangerous Paper, both to His Majeſty and His Children, did not
+ſee Day in the hotteſt Times of <hi>Excluſion;</hi> as I could eaſily
+Illuſtrate, but ſhall avoid to do ſo, ſince it be<g ref="char:EOLhyphen"/>comes all true Lovers
+of their Country in ſome degree to be humble Imitators of His Sacred
+Majeſty; whoſe ſtock of Mercy to His People, ſeems impoſſible to be
+Exhauſted; and whoſe Healing Temper gives apparently the Lye to all the
+Scandals His Enemies ever invented of Him to deprive Him of His Right.</p>
+            <p>The <hi>Diſſenters</hi> have the Word of this Glorious Prince;
+That they ſhall be ſure of their preſent Eaſe during His Reign; and
+that it ſhall be none of His Fault, if it be not made Perpetual to them, not
+only by Recinding the Laws that can Hurt them, but alſo to confirm the Right
+of free enjoyment of Con<g ref="char:EOLhyphen"/>ſcience to every <hi>Engliſh</hi> Man for ever, by
+a <hi>Magna Charta,</hi> equal to that by when they hold their Eſtates: And
+this Diſ<g ref="char:EOLhyphen"/>intereſted Favour of His Majeſties, with the Infallible Security
+it may be confirm'd to them by: You would have them thrown away and
+deſpiſe, to relie upon the ſingle Promiſe of <hi>T. W.</hi>
+            </p>
+            <p>But <hi>Sir,</hi> you muſt, I believe, be better known before
+you are ſo far Truſted: For though you ſeem <hi>Plenipotentiary</hi> for
+your Church, yet your <hi>Credentials</hi> may be Forg'd; and whilſt your
+<hi>Memorial</hi> ſpeaks plainly the Senſe of your Party in the
+<pb n="6" facs="tcp:96979:4"/> Scandalous Reflections it makes on His Majeſties
+<hi>Actions</hi> and <hi>Alliances;</hi> yet it is in their Power to diſown
+you for one of their Church, when ever it is neceſſary for them to Boaſt
+<hi>Im<g ref="char:EOLhyphen"/>maculate Loyalty</hi> again: So it may happen that <hi>T. W.</hi> may be
+Hang'd for a Traytor, the <hi>Diſſenters</hi> undone for taking his Word,
+and the Church of <hi>England</hi> ſtill continue in its Ori<g ref="char:EOLhyphen"/>ginal Innocency:
+A conveniency (I confeſs) peculiar to your Party, all others being forc'd to
+bear their Iniquities, and un<g ref="char:EOLhyphen"/>dergo the Reproach of their Brethrens Sins.</p>
+            <p>But to examin a little cloſer what you would be at, and what you
+expect from the <hi>Diſſenters:</hi> In your Treaty, it appears to be
+<hi>That they ſhould not be ſo linked to their New Friends, as to Reject an
+Indulgence the Parliament may offer them, without comprehend<g ref="char:EOLhyphen"/>ing the</hi>
+Papiſts.</p>
+            <p>A very ſurprizing Propoſal in the Circumſtances of the
+Times, and ſeems, as if you would offer to reſtore to them that of 42. For
+I know no other Parliament can make good your Word, whilſt His Majeſty
+lives: But theſe ſort of Expreſſions are no Sin in your
+Circumſtances, having <hi>Numbers</hi> enough to back them <hi>if they would
+be Laught out of their Doctrine of Non-Reſiſtance,</hi> His Majeſties
+<hi>beſt Security</hi> (as you would Inſinuate) <hi>for his Crown.</hi> But
+believe it <hi>Sir,</hi> diſcerning Men know this Boaſt of yours is but a
+Copy of your Countenance; for His Majeſties <hi>Indulgence</hi> and the
+<hi>Addreſſes</hi> you are ſo troubled at, leaves your Church but a Thin
+Muſter, ſhould ſhe Renounce her pretended Prin<g ref="char:EOLhyphen"/>ciple: And what you ſay
+in other parts of your Paper, proves ſufficiently, that That Doctrine you
+would formerly have rob'd all other Churches of, to Adorn your own, is from its
+Ornament, become only an excuſe, and will in the end prove a Thinner Covering
+for her Nakedneſs then Fig-leaves were to our Fore-Fathers ſhame.</p>
+            <p>If your ſelf had not known this to be true, you had ſpar'd the
+Pains of your Ingenious Paper: But truly, I confeſs, you ought in this
+Juncture to be Indulg'd a little Liberty of Con<g ref="char:EOLhyphen"/>ſcience too, for the
+Propagation of your Faith: For ſince you have loſt the Power of
+<hi>Preſſing</hi> men to your ſide; it is but rea<g ref="char:EOLhyphen"/>ſonable
+<pb n="7" facs="tcp:96979:4"/> you ſhould be allowed to <hi>Bear</hi> up for
+<hi>Volunteers.</hi> For this Cauſe I ſhall ſay little more to you,
+either about the Re<g ref="char:EOLhyphen"/>flections you make on His Majeſty, or thoſe that
+<hi>Addreſs</hi> to Him, but will cloſe up all with theſe few
+<hi>Memorandums</hi> to your next Labours.</p>
+            <p>That you take care to ſhew, what King you expect will be ſo
+mad to part with his undoubted Prerogative of Diſpenſing with <hi>Penal
+Statutes;</hi> when he judges it convenient for the Ser<g ref="char:EOLhyphen"/>vice of Himſelf and
+Kingdom, now it is Recogniz'd to be His Right by Law.</p>
+            <p>Next you are to prepare ſtrong Reaſons to induce that King to
+be ſuch a <hi>Fello de ſe</hi> to his Title and Power.</p>
+            <p>Then you are to ſhew the Uſe of the <hi>Teſt</hi> in matters
+of Places; for to a <hi>Catholick</hi> King it can be no Hindrance to imploy
+<hi>Papiſts,</hi> ſince he can Diſpenſe with the taking it; and to a
+<hi>Proteſtant</hi> 'tis needleſs, ſince his own Averſion to that
+Party, will (it may be ſuppos'd) ſufficiently Exclude them: Then ſince it
+can be of no Uſe in a <hi>Papiſt</hi> or <hi>Proteſtant</hi> Princes
+Reign; It ſeems un<g ref="char:EOLhyphen"/>reaſonably Fractious not to recind it at the Requeſt
+of a Prince, who is ready to Grant ſo many Favours in conſequence of ſuch
+a Repeal, and is againſt it, as it is plainly more againſt Chriſts, than
+his own Prerogative.</p>
+            <p>As to your ſuggeſtion againſt Repealing the <hi>Teſt</hi>
+in its <hi>Legiſla<g ref="char:EOLhyphen"/>tive</hi> uſe; let it be but Impartially conſider'd,
+that the Making of it did, as the Continuance of it does, ſtrike at the Root,
+and deſtroys the very Foundation of <hi>Engliſh</hi> Liberty; ſince
+againſt the true intent of <hi>Magna Charta,</hi> it deprives Men of their
+Birth<g ref="char:EOLhyphen"/>right, without any Crime or Tryal of their <hi>Peers;</hi> and may be an
+In-let by <hi>Faction</hi> to all manner of Slavery. But a Recogni<g ref="char:EOLhyphen"/>tion in
+Parliament, that it is void in it ſelf; for that cauſe, will not only
+reſtore the Nation to its true Liberty and Property; but be a Bulwark
+againſt the like Law for Deſtruction of any other Party, may chance to be
+out of faſhion.</p>
+            <p>I am, I confeſs one of thoſe <hi>Diſſenters,</hi> who
+would be glad His Majeſties Favour was turn'd into a Law, ſince there is no
+<pb n="8" facs="tcp:96979:5"/> Probability any future conduct of <hi>Catholicks</hi> could
+meet with the ſame Circumſtances to cauſe new Statutes to be made
+againſt them; like thoſe, the doubtful Title of Queen <hi>Elizabeth</hi>
+occa<g ref="char:EOLhyphen"/>ſion'd; And I hope you do not expect to be accounted a Con<g ref="char:EOLhyphen"/>jurer, for
+finding out the Secret, to tell the other <hi>Diſſenters, That</hi>
+Papiſts <hi>themſelves do not relye on the Legality of this Power to make
+it Perpetual;</hi> Since it is plain, that to our Sorrow, as well as the
+Nations loſs, We cannot hope His Majeſty will be Immortal: Though to our
+Comfort at the ſame time, few of us doubt, but he will live long enough to
+carry his own Glory beyond any of his Predeceſſors; and to lay a laſting
+Founda<g ref="char:EOLhyphen"/>tion for the Felicity of his People. Which that he may do, will be the
+Prayers of all his Honeſt Subjects, as they are of one, that wiſhes your
+Polite Pen better imploy'd, then to the Diſturbance of your King and Country,
+which is,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Humble Servant. Henry Payne.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>N. T. Anno Domini</hi> 1687.</p>
+            <pb facs="tcp:96979:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
